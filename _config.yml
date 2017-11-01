@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 青蝈蝈的博客 | BY Blog
+title: hello world
+SEOTitle: 青蝈蝈的博客 | qingguoguo
 header-img: img/post-bg-desk.jpg
 email: qingguoguo66@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 青蝈蝈的博客, qiubaiying, 青蝈蝈, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, 青蝈蝈的博客, qingguoguo, 青蝈蝈, Android, java"
 url: "http://qingguoguo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+# weibo_username:     qingguoguo
 zhihu_username:     qingguoguo
 github_username:    qingguoguo
 facebook_username:  qingguoguo
 jianshu_username:   873927ba124a
-#twitter_username:   qiubaiying
+#twitter_username:   qingguoguo
 
 
 
