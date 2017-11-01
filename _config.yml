@@ -94,16 +94,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "github",
+        href: "https://github.com/qingguoguo"
     },{
         title: "简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "google play",
+        href: "https://play.google.com/store"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Android Developer",
+        href: "https://developer.android.google.cn/guide/index.html"
     }
 ]
